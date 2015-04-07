@@ -1,0 +1,8 @@
+{
+  "name": "boilerplate",
+  "private": true,
+  "devDependencies": {
+    "bourbon": "~4.2.0",
+    "neat": "~1.7.1"
+  }
+}
