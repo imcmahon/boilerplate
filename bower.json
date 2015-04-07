@@ -1,8 +1,17 @@
 {
   "name": "boilerplate",
   "private": true,
-  "devDependencies": {
+  "dependencies": {
     "bourbon": "~4.2.0",
-    "neat": "~1.7.1"
+    "neat": "~1.7.1",
+    "normalize-css": "~3.0.3"
+  },
+  "overrides": {
+    "bourbon": {
+      "ignore": "true"
+    },
+    "neat": {
+      "ignore": "true"
+    }
   }
 }
